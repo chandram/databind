@@ -87,7 +87,7 @@ var model = {
 DataBind.bind( $('#id1'), model );
 ```
 
-## Confiureable binding
+## Configureable binding
 ```html
 <textarea   data-key="k1" id="id1" rows="5" cols="30"></textarea>
 ```
